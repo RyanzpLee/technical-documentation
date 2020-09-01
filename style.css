@@ -15,7 +15,7 @@ p {
 }
 
 
-h1 {
+header {
     font-size: 3rem;
     font-weight: 400;
     margin: 25px 0 10px 0;
@@ -28,7 +28,7 @@ a {
     color: black;
 }
 
-.navlink a {
+.nav-link a {
     text-decoration: none;
     color: black;
 }
